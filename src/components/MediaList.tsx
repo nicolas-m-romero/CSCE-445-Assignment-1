@@ -5,32 +5,42 @@ const mediaCategories = [
 	{
     name: "Music",
     subcategories: [
-      { name: "Pop", examples: ["Artist A", "Artist B"] },
-      { name: "Rock", examples: ["Band X", "Band Y"] },
-      { name: "Classical", examples: ["Composer M", "Composer N"] },
+      { name: "Alt", examples: ["Mk.gee", "Weston Estate", "Imogen Heap", "Cigarettes After Sex"] },
+      { name: "Rock", examples: ["Dance Gavin Dance", "Deftones", ] },
+      { name: "Rap", examples: ["Drake", "Gunna", "Travis Scott"] },
+      { name: "RNB", examples: ["Frank Ocean", "Bryson Tiller", "PARTYNEXTDOOR"] },
     ],
   },
   {
-    name: "Moving Images",
+    name: "TV Shows",
     subcategories: [
-      { name: "Movies", examples: ["Sci-Fi: Inception", "Drama: The Shawshank Redemption"] },
-      { name: "TV Shows", examples: ["Comedy: The Office", "Drama: Breaking Bad"] },
-      { name: "YouTube", examples: ["Educational: Crash Course", "Entertainment: Vlogbrothers"] },
+      { name: "Comedy", examples: ["Modern Family", "Pen15"] },
+      { name: "Drama", examples: ["The Bear", "The White Lotus", "Euphoria"] },
+      { name: "Crime & Thriller", examples: ["Narcos", "Fargo", "Breaking Bad"] },
+      { name: "Historical & Period Pieces", examples: ["Peaky Blinders", "Chernobyl", "Vikings"] },
     ],
   },
   {
-    name: "Games",
+    name: "Movies",
     subcategories: [
-      { name: "Video Games", examples: ["RPG: The Witcher 3", "Strategy: Civilization VI"] },
-      { name: "Mobile Games", examples: ["Puzzle: Wordle", "Casual: Candy Crush"] },
+      { name: "Action", examples: ["John Wick", "The Dark Knight", "Gladiator"] },
+      { name: "Sci-Fi", examples: ["Interstellar", "The Matrix", "Blade Runner 2049"] },
+      { name: "Comedy", examples: ["Superbad", "Anchorman", "Step Brothers"] },
+      { name: "Drama", examples: ["Schindler's List", "Forest Gump", "The Shawshank Redemption"] },
+    ],
+  },
+  {
+    name: "Video Games",
+    subcategories: [
+      { name: "Online Games", examples: ["Marvel Rivals", "Destiny 2", "Fortnite"] },
+      { name: "Story Games", examples: ["The Last of Us", "God of War"] },
     ],
   },
   {
     name: "Social Media",
     subcategories: [
-      { name: "Instagram", examples: ["Photo sharing", "Stories"] },
-      { name: "Twitter", examples: ["Microblogging", "News updates"] },
-      { name: "LinkedIn", examples: ["Professional networking", "Job searching"] },
+      { name: "Instagram", examples: ["Posting/Viewing Photos", "Posting/Viewing Stories"] },
+      { name: "LinkedIn", examples: ["Professional networking", "Job searching", "Posting Career Advancements"] },
     ],
   },
 ]
