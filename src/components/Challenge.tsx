@@ -8,11 +8,11 @@ export default function Challenge() {
       </CardHeader>
       <CardContent>
         <p className="text-muted-foreground">
-          One significant challenge I face in my media consumption and generation is managing information overload. 
-					With the vast amount of content available across various platforms, it&apos;s becoming increasingly difficult to 
-					filter out noise and focus on meaningful, high-quality information. This overload can lead to decreased productivity 
-					and increased stress levels. To address this, I&apos;m working on developing better content curation strategies and implementing 
-					digital wellness practices, such as setting specific times for media consumption and using tools to limit notifications and distractions.
+          One significant challenge I face when creating media, specifically taking photos is understanding what all
+          the tools and options available with mobile photography are. I often do not know what many of the tools and buttons
+          found in the camera apps do, and I have noticed that the images I often take are of lesser quality than those I see online.
+          I think it would be amazing to have some sort of tool to automatically adjust the camera to the best settings for the specific
+          lighting and colors scheme found in the scene I am trying to capture.
         </p>
       </CardContent>
     </Card>
