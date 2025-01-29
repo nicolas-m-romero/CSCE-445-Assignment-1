@@ -18,9 +18,11 @@ export default function PersonalInfo() {
         <div className="flex-1">
           <h2 className="text-2xl font-semibold mb-2">Nicolas Romero</h2>
           <p className="text-muted-foreground">
-            I&apos;m taking this class because I&apos;m passionate about understanding how media shapes our society 
-            and influences our daily lives. I&apos;m excited to explore the intersection of technology and communication, 
-            and to develop skills that will help me navigate the ever-evolving media landscape.
+            I am taking this course because I am curious about the relationship between the creators and users of interactive media,
+            and how that relationship surrounding the consumed media shapes and influences our society. I am excited to explore the 
+            this relationship and further see the impact that the media we consume has on our psyche and perception of our communities
+            I want to learn about this intersection of technology and communication, and to gain the skills to better comprehend and navigate
+            the media that I consume.
           </p>
         </div>
       </CardContent>
